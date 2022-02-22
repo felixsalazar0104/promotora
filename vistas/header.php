@@ -38,9 +38,9 @@ if (strlen(session_id()) < 1)
         <!-- Logo -->
         <a href="index2.html" class="logo">
           <!-- mini logo for sidebar mini 50x50 pixels -->
-          <span class="logo-mini"><b>AD</b>Ventas</span>
+          <span class="logo-mini"><b>P</b>M</span>
           <!-- logo for regular state and mobile devices -->
-          <span class="logo-lg"><b>ASECONES</b></span>
+          <span class="logo-lg"><b>PROMOTORA</b></span>
         </a>
 
         <!-- Header Navbar: style can be found in header.less -->
@@ -65,7 +65,7 @@ if (strlen(session_id()) < 1)
                   <li class="user-header">
                     <img src="../files/usuarios/<?php echo $_SESSION['imagen']; ?>" class="img-circle" alt="User Image">
                     <p>
-                      www.incanatoit.com - Desarrollando Software
+                      www.promotora.com - Desarrollando Software
                       <small>www.youtube.com/jcarlosad7</small>
                     </p>
                   </li>
