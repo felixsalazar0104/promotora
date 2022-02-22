@@ -40,7 +40,7 @@ if (strlen(session_id()) < 1)
           <!-- mini logo for sidebar mini 50x50 pixels -->
           <span class="logo-mini"><b>P</b>M</span>
           <!-- logo for regular state and mobile devices -->
-          <span class="logo-lg"><b>PROMOTORA_</b></span>
+          <span class="logo-lg"><b>PROMOTORA</b></span>
         </a>
 
         <!-- Header Navbar: style can be found in header.less -->
